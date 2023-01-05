@@ -2,8 +2,7 @@
 
   ## 👩‍💻 Oii, eu sou a Isabela Fagundes !!
   ##
-<div align= "center">
-    <div>
+   <div>
     <a href="https://github.com/isabelafagundes">
     <img height="166em" src="https://github-readme-stats.vercel.app/api?username=isabelafagundes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
     <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelafagundes&layout=compact&langs_count=7&theme=aura"/>
@@ -22,11 +21,9 @@
 
   ##
       
-  <div style="display: inline_block">
+  <div style="display: inline_block" align="center">
     <a href="https://www.linkedin.com/in/isabela-fagundes2004/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   <a href = "mailto:isabelahidalgo.2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
-      
-</div>
 
