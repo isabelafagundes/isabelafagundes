@@ -1,6 +1,6 @@
 
 
-  ## 👩‍💻 Oii, eu sou a Isabela Fagundes !!
+  ## 👩‍💻 Olá, eu sou a Isabela Fagundes!
    <div>
     <a href="https://github.com/isabelafagundes">
     <img height="166em" src="https://github-readme-stats.vercel.app/api?username=isabelafagundes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
