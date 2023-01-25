@@ -3,9 +3,9 @@
   ## 👩‍💻 Olá, eu sou a Isabela Fagundes!
    <div>
     <a href="https://github.com/isabelafagundes">
-<!--     <img height="166em" src="https://github-readme-stats.vercel.app/api?username=isabelafagundes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+    <img height="166em" src="https://github-readme-stats.vercel.app/api?username=isabelafagundes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
     <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelafagundes&layout=compact&langs_count=7&theme=aura"/>
-  </div> -->
+  </div>
   
   ### 📚 Estudando:
   <div style="display: inline_block">
