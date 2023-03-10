@@ -14,6 +14,9 @@
     <img align="center" alt="Isabela-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Isabela-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Isabela-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Isabela-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" >
+    <img align="center" alt="Isabela-C" height="40" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg)">
+    
   </div>
 
   ##
