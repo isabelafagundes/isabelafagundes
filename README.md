@@ -23,7 +23,7 @@
 **Banco de dados**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=smicrosoftsqlserver)
+![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
 
 **Utilidades**
 
@@ -34,7 +34,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Bitbucket](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
+![Bitbucket](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
 
   <h3>Minha atividade no GitHub</h3>
    <div align="left">
