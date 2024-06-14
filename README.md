@@ -5,8 +5,8 @@
 ### 👩‍💻 Olá, eu sou a Isabela Fagundes!
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.linkedin.com/company/hipcomerp/mycompany/](https://www.linkedin.com/in/fatec-santana-de-parna%C3%ADba-5baa86198/)">FATEC Santana de Parnaíba</a>.
-- 💼 Trabalhando como Desenvolvedora Junior na <a href="https://www.linkedin.com/company/hipcomerp/mycompany/">Hipcom Erp</a>.
-- 🌱 Aprendendo mais sobre programação back-end com Java e front-end com Dart e Flutter.
+- 💼 Trabalhando como Desenvolvedora Full-stack na <a href="https://www.linkedin.com/company/hipcomerp/mycompany/">Hipcom Erp</a>.
+- 🌱 Conhecimentos de programação back-end com Java e GoLang, e front-end com Dart e Flutter.
   
 <h3>Minhas Skills</h3>
 
@@ -25,10 +25,6 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
 **DevOps**
 
