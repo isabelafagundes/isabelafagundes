@@ -49,5 +49,5 @@
 <h3>🌐 Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-isabelafagundes-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-fagundes2004/)
-[![Gmail Badge](https://img.shields.io/badge/-isabelahidalgo.2004@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:isabelahidalgo.2004@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-isabelafagundesdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:isabelahidalgo.2004@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/isabelafagundes?label=follow&style=social)](https://github.com/isabelafagundes)
